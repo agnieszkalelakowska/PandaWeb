@@ -1,6 +1,11 @@
 h1 {
     font: sean;
     font-size: 50px;
+    text-shadow: 2px 3px 6px green; 
+}
+
+h2 {
+    text-shadow: 2px 3px 6px green;
 }
 
 p {

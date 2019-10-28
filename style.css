@@ -1,5 +1,7 @@
 p {
-	font: arial;
+	font: Arial;
+	border: solid 15px;
+	border-color: #D4CDCD #837D7D #837D7D #D4CDCD;
 }
 
 img {
@@ -29,6 +31,6 @@ table.wikitable, th, td {
 }
 
 body {
-	border: dotted 15px grey;
+	border: dotted 15px #837D7D;
 	padding: 20px;
 }

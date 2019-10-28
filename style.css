@@ -28,3 +28,6 @@ table.wikitable, th, td {
     width: 30em;
 }
 
+body {
+	border: dotted 15px grey;
+}

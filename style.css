@@ -37,5 +37,9 @@ table.wikitable, th, td {
 .center-div {
     background-color: #fff;
     padding: 30px;
+    border-width: 0px 15px 0px 15px;
+    border-color: pink;
+    border-style: solid;
 }
+
 

@@ -30,4 +30,5 @@ table.wikitable, th, td {
 
 body {
 	border: dotted 15px grey;
+	padding: 20px;
 }

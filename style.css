@@ -11,6 +11,12 @@ h1 {
 h2 {
     text-shadow: 2px 2px 2px grey;
 }
+.redpandah1 {
+    font: sean;
+    font-size: 50px;
+    background-color: Red;
+    margin: -30px -30px 20px -30px;
+}
 
 p {
 	font: arial;
